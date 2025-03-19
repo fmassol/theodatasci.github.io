@@ -60,24 +60,29 @@ navbar:
       menu:
         - text: "Bastidas‐Urrutia et al. 2024 Journal of Biogeography"
           href: "Papers for group work/Bastidas‐Urrutia et al 2024 J Biogeography.pdf"
+          menu:
           - text: "dataset 1"
             href: "https://datadryad.org/dataset/doi:10.5061/dryad.fv94v"
           - text: "dataset 2"
             href: "https://figshare.com/articles/dataset/AVONET_morphological_ecological_and_geographical_data_for_all_birds_Tobias_et_al_2021_Ecology_Letters_/16586228/3"
         - text: "Calcagno et 2022 Functional Ecology"
           href: "Papers for group work/Calcagno et 2022 Functional Ecology.pdf"
+          menu:
           - text: "dataset and codes"
             href: "https://doi.org/10.5281/zenodo.6400509"
         - text: "DeLong & Lyon 2020 PeerJ"
           href: "Papers for group work/DeLong Lyon 2020 PeerJ.pdf"
+          menu:
           - text: "dataset"
             href: "https://doi.org/10.7717/peerj.9377/supp-1"
         - text: "O'Gorman et al. 2023 Nature Ecology & Evolution"
           href: "Papers for group work/OGorman 2023 NatureEE.pdf"
+          menu:
           - text: "dataset"
             href: "https://doi.org/10.5526/ERDR-00000186"
         - text: "Van De Walle et al. 2023 Journal of Animal Ecology"
           href: "Papers for group work/Van De Walle Journal of Animal Ecology - 2023.pdf"
+          menu:
           - text: "dataset"
             href: "https://doi.org/10.5281/zenodo.7546960"
         - text: "Yoshida et al. 2003 Nature"
