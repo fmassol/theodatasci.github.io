@@ -28,6 +28,7 @@ navbar:
       - text: "Vincent Calcagno's talk"
         href: "courses/theo-modeling/TDAED_stats_2024.pdf"
       - text: "Sally Otto's talk"
+        href: "https://www.youtube.com/watch?v=1xD7BAOKllw"
       - text: "bonus from earlier editions: Kim Cuddington's talk"
         href: "https://www.ecotheory.ca/theorydata/datatheory.html"
       - text: "DAY 2"
@@ -71,37 +72,7 @@ navbar:
         - text: "Yoshida et al. 2003 Nature"
           href: "Papers for group work/Yoshida et al 2003 Nature.pdf"
     - text: "Data for group work"
-      href: "#"
-      menu:
-        - text: "Bastidas‐Urrutia et al. 2024 Journal of Biogeography"
-          href: "#"
-          menu:
-            - text: "dataset 1"
-              href: "https://datadryad.org/dataset/doi:10.5061/dryad.fv94v"
-            - text: "dataset 2"
-              href: "https://figshare.com/articles/dataset/AVONET_morphological_ecological_and_geographical_data_for_all_birds_Tobias_et_al_2021_Ecology_Letters_/16586228/3"
-        - text: "Calcagno et 2022 Functional Ecology"
-          href: "#"
-          menu:
-            - text: "data and code"
-              href: "https://doi.org/10.5281/zenodo.6400509"
-        - text: "DeLong & Lyon 2020 PeerJ"
-          href: "#"
-          menu:
-            - text: "dataset"
-              href: "https://doi.org/10.7717/peerj.9377/supp-1"
-        - text: "O'Gorman et al. 2023 Nature Ecology & Evolution"
-          href: "#"
-          menu:
-            - text: "dataset"
-              href: "https://doi.org/10.5526/ERDR-00000186"
-        - text: "Van De Walle et al. 2023 Journal of Animal Ecology"
-          href: "#"
-          menu:
-            - text: "dataset"
-              href: "https://doi.org/10.5281/zenodo.7546960"
-        - text: "Yoshida et al. 2003 Nature"
-          href: "#"
+      href: datasets.html
 output:
   distill::distill_article:
     css: css/theme.css
