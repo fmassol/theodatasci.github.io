@@ -14,36 +14,22 @@ knitr::opts_chunk$set(echo = FALSE)
 
 
 **Datasets associated with Bastidas-Urrutia et al 2024 J Biogeography**
-
-- Dataset 1
-href: "https://datadryad.org/dataset/doi:10.5061/dryad.fv94v"
-- Dataset 2
-href: "https://figshare.com/articles/dataset/AVONET_morphological_ecological_and_geographical_data_for_all_birds_Tobias_et_al_2021_Ecology_Letters_/16586228/7"
+&nbsp;[**Dataset 1**](https://datadryad.org/dataset/doi:10.5061/dryad.fv94v)
+&nbsp;[**Dataset 2**](https://figshare.com/articles/dataset/AVONET_morphological_ecological_and_geographical_data_for_all_birds_Tobias_et_al_2021_Ecology_Letters_/16586228/7)
 
 **Datasets associated with Calcagno et al. 2022 Functional Ecology**
-
-- Data and code
-href: "https://doi.org/10.5281/zenodo.6400509"
+&nbsp;[**Data and code**](https://doi.org/10.5281/zenodo.6400509)
 
 **Datasets associated with DeLong & Lyon 2020 PeerJ**
-
-- Dataset (regular version)
-href: "https://doi.org/10.7717/peerj.9377/supp-1"
-- Dataset (alt version)
-href: "datasets/data_delong.csv"
+&nbsp;[**Dataset**](https://doi.org/10.7717/peerj.9377/supp-1)
+&nbsp;[**Dataset alt repo**](datasets/data_delong.csv)
 
 **Datasets associated with O'Gorman et al. 2023 Nature Ecology & Evolution**
-
-- Dataset
-href: "https://doi.org/10.5526/ERDR-00000186"
+&nbsp;[**Dataset**](https://doi.org/10.5526/ERDR-00000186)
 
 **Datasets associated with Van De Walle et al. 2023 Journal of Animal Ecology**
-
-- Dataset
-href: "https://doi.org/10.5281/zenodo.7546960"
+&nbsp;[**Dataset**](https://doi.org/10.5281/zenodo.7546960)
 
 **Datasets associated with Yoshida et al. 2003 Nature**
-
-- Dataset 
-href: "datasets/data_yoshida.csv"
+&nbsp;[**Dataset**](datasets/data_yoshida.csv)
 
