@@ -44,7 +44,7 @@ navbar:
       - text: "Maxime Dubart's GitHub"
         href: "https://github.com/mxdub/TMDSpatial_data"
       - text: "Davide Martinetti's talk"
-        #href: "courses/spatial-data/Martinetti_SDM_PopilliaJaponica2.pdf"
+        href: "courses/spatial-data/Martinetti_SDM_PopilliaJaponica2.pdf"
       - text: "DAY 4"
       - text: "François Massol's talk"
         href: "courses/networks/Day4_Networks_2025.pdf"
