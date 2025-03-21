@@ -51,7 +51,7 @@ navbar:
       - text: "Matthieu Barbier's talk"
         href: "courses/networks/matthieu/MB_cesab.pdf"
       - text: "Claire Jacquet's talk"
-        #href: "courses/networks/Claire/empirical_food_webs.pdf"
+        href: "courses/networks/Claire/empirical_food_webs.pdf"
       - text: "Sonia Kéfi's talk"
         href: "courses/networks/2022_05_cesab_Kefi.pdf"
     - text: "Resources"
