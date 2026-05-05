@@ -6,7 +6,7 @@ library(MASS)
 library(plotrix)
 
 #################
-# 20.03.2025
+# 19.03.2026
 # Complexity-stability relationship in empirical food webs
 ###########################
 
@@ -14,7 +14,7 @@ library(plotrix)
 #May's result in random communities
 ###########################
 m<-matrix(rnorm(10^6),nrow=10^3)
-diag(m)=-1
+diag(m)=0
 plot(eigen(m)$values,xlab="real part",ylab="imaginary part")
 abline(h=0)
 abline(v=0)
@@ -69,6 +69,7 @@ max(as.numeric(eigen(m)$values))
 rm(list=ls())
 # 1. Data frame with names of Ecopath models and habitat types (116 models):
 load("Ecopath_models.Rdata")
+
 ndat = nrow(Ecopath_models)
 head(Ecopath_models)
 # 2. List of species names for each model:
